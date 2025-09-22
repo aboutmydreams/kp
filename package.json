@@ -1,0 +1,36 @@
+{
+  "name": "kp-cli",
+  "version": "0.1.0",
+  "description": "Kill the process bound to a TCP port from the command line",
+  "bin": {
+    "kp": "./bin/kp.js"
+  },
+  "keywords": [
+    "kill",
+    "process",
+    "port",
+    "cli",
+    "tcp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aboutmydreams/kp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aboutmydreams/kp/issues"
+  },
+  "homepage": "https://github.com/aboutmydreams/kp#readme",
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "test": "node bin/kp.js --help"
+  }
+}
