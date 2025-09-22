@@ -6,14 +6,14 @@
 
 ```bash
 # npm (global)
-npm install -g kp-cli
+npm install -g kp3
 
 # Homebrew
 brew tap aboutmydreams/kp
 brew install kp
 ```
 
-> The npm package name is `kp-cli`. Once you secure the unscoped `kp` name on npm you can rename the package and update these commands.
+> The npm package name is `kp3`. Once you secure the unscoped `kp` name on npm you can rename the package and update these commands.
 
 ## Usage
 

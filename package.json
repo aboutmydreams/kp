@@ -1,5 +1,5 @@
 {
-  "name": "kp-cli",
+  "name": "kp3",
   "version": "0.1.0",
   "description": "Kill the process bound to a TCP port from the command line",
   "bin": {
